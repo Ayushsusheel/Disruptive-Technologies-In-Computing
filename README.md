@@ -1,3 +1,4 @@
 # Disruptive-Technologies-In-Computing
 
-Tpocis Disscussed
+Topics Disscussed
+ 
